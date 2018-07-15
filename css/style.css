@@ -13,7 +13,7 @@ body {
 
 nav {
   margin: 0 auto;
-  padding: 20px 0 15px 15px;
+  padding: 25px 0 15px 15px;
   position: fixed;
   width: 420px;
   background-color:black;
@@ -25,7 +25,6 @@ nav {
 
 .location:hover {
     background-color:grey;
-    padding-top: 20px;
     border-style:1px,solid;
 }
 
